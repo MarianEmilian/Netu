@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{C09D293D-40B0-468D-8693-84E4D1D54280}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Entities/Product.cs">
+    <Files>
+      <File FileName="ProductsTesting.Tests/UnitTest1.cs" Line="39" Column="24" />
+      <File FileName="API/Entities/Product.cs" Line="32" Column="16" NotebookId="1" />
+      <File FileName="API/Data/ProductRepository.cs" Line="30" Column="1" NotebookId="1" />
+      <File FileName="API/Data/Repository.cs" Line="38" Column="24" NotebookId="1" />
+      <File FileName="API/Data/DataContext.cs" Line="4" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Product.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ProductsTesting.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

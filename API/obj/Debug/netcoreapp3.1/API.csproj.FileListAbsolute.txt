@@ -1,0 +1,182 @@
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/API.exe
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/API.deps.json
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/API.runtimeconfig.json
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/API.runtimeconfig.dev.json
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/API.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/API.pdb
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.RazorTargetAssemblyInfo.cache
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.Manifest.cache
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.xml
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.dll
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.pdb
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/ioant/demo/API/obj/Debug/netcoreapp3.1/API.csproj.CopyComplete
+C:/Users/ioant/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/API.deps.json
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/API.runtimeconfig.json
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/API.runtimeconfig.dev.json
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/API.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/API.pdb
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/crisanm/Projects/demo/API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.RazorTargetAssemblyInfo.cache
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.csproj.CopyComplete
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/staticwebassets/API.StaticWebAssets.xml
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.dll
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.pdb
+/Users/crisanm/Projects/demo/API/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Matei Radu\OneDrive\Desktop\demo\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
